@@ -1,6 +1,8 @@
 # Mesclar PDF Grátis
 Código em python que mescla pdf
 
+` pip install PyPDF2 `
+
 ### Passo a passo
 #### 1º - Baixe o código em uma pasta
 #### 2º - Adicione a pasta "pdf_mesclar" os PDFs que você pretende juntar
